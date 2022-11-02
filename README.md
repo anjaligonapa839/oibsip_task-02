@@ -1,18 +1,11 @@
 
-<img src="https://user-images.githubusercontent.com/30567608/28939016-31833b64-7890-11e7-8409-3c4ad6190d58.PNG">
+<img src="https://www.scrolldroll.com/wp-content/uploads/2020/01/APJ-Abdul-Kalam-Quotes-10.jpg">
 <p>This is a Tribute Page to Abdul Kalam</p>
-<p>Part of the chanllenges of <a href="https://www.freecodecamp.org" target="_blank">Freecodecamp.org </a></p>
+
 <h3>Technologies used: </h3>
 <ul>
 	<li>HTML5</li>
 	<li>CSS3</li>
 	<li>Bootstrap</li>
 </ul>
-<h3>User Stories: </h3>
-<ul>
-	<li>Scroll down</li>
-	
-</ul>
-
-
 
